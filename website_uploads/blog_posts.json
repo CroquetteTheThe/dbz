@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "title": "Hello World",
+        "date": "2025-02-23",
+        "summary": "A star is born",
+        "content": "Hello world !!! I am finally releasing my website!! 🥳 I have been working on it for a little while already :) You know how you never want to release something because it is not \"perfect enough\"? Well I decided that a imperfect now is better than an perfect never!! ^^ More is coming soon!!!",
+        "image": "/gifs/new_galaxy.gif"
+    },
+    {
+        "id": 1,
+        "title": "Ice Cream Arc",
+        "date": "2025-04-26",
+        "summary": "Hi everyone! I know I said I would be back soon, but I was busy living :) In fact, I lived my Ice Cream Scooper Arc!! It was incredible!! 🥳",
+        "content": "Hi everyone! I know I said I would be back soon, but I was busy living :) In fact, I lived my Ice Cream Scooper Arc!! It was incredible!! 🥳\nLet me tell the story... I came to Australia in November to escape winter in my country :) Then I decided to work there... Australia is a land of opportunities, and I found myself creating the most beautiful CV to get hired as... and Ice Cream Scooper / Kitchen Hand!!! ✨✨✨\nGuys, you have to know something... I love ice cream! I also love to share happiness!! ^^ And ice cream is happiness!! Needless to say I was thriving at this job!! >v<\nIt ended a week ago when I decided to go back in my country... I was really sad, but that only shows how much I loved this job! This was also one of my first experience in customer service... I think I am built for this!! 🔥🔥🔥",
+        "image": "pictures/picture_post_1.png"
+    }
+]
