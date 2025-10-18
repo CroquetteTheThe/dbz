@@ -1,2 +1,2 @@
-# .dbz
+# dbz
 Database for projects
